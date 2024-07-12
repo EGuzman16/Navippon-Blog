@@ -1,0 +1,9 @@
+Carrera:Diseño y programación Web 
+Materia: Clientes Web Mobile
+Cuatrimestre:4
+Año:2024
+Turno: Mañana
+Comisión: DWM4AH
+Apellido y Nombre: Guzman Elizabeth
+Docente: Santiago Gallino
+Carácter de entrega: Recuperatorio 2do Parcial
